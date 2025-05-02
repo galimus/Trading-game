@@ -1,0 +1,10 @@
+Trade Date,Ticker,Signal,Notional,Comments
+2012-04-27,CAC,Short,TBD,"SMA crossover (Sharpe > 0.2, PnL > 2%) – pending final allocation"
+2014-07-25,CAC,Short,TBD,"SMA crossover (Sharpe > 0.2, PnL > 2%) – pending final allocation"
+2016-07-01,CAC,Short,TBD,"SMA crossover (Sharpe > 0.2, PnL > 2%) – pending final allocation"
+2020-02-28,CAC,Short,TBD,"SMA crossover (Sharpe > 0.2, PnL > 2%) – pending final allocation"
+2020-11-13,CAC,Long,TBD,"SMA crossover (Sharpe > 0.2, PnL > 2%) – pending final allocation"
+2021-10-29,CAC,Long,TBD,"SMA crossover (Sharpe > 0.2, PnL > 2%) – pending final allocation"
+2022-02-25,CAC,Short,TBD,"SMA crossover (Sharpe > 0.2, PnL > 2%) – pending final allocation"
+2022-09-16,CAC,Short,TBD,"SMA crossover (Sharpe > 0.2, PnL > 2%) – pending final allocation"
+2023-12-01,CAC,Long,TBD,"SMA crossover (Sharpe > 0.2, PnL > 2%) – pending final allocation"
