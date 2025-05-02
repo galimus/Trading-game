@@ -28,7 +28,8 @@ This project implements a systematic SMA crossover strategy on weekly ETF price 
 | `signals_summary.csv` | All generated SMA crossover signals |
 | `Trading_Log_2025-04-22.csv` | Trading log based on the latest valid signal (April 2025) |
 | `Trading_Log_Ready.csv` | Filtered, high-confidence trades with comments |
-| `README.md` | Project summary and file descriptions |
+
+
 
 ##  Key Insight
 
