@@ -23,7 +23,7 @@ This project implements a systematic  strategies on different price data.
 - **Data**: Daily Gold Futures and Bloomberg Commodity Index (2015–2025)
 - **Signal**: Long Gold when gold return – BCOM return > threshold (e.g., 2–4%)
 - 
-### ✅ What Was Done - Stategy 2
+### What Was Done - Stategy 2
 
 - Built signal and divergence indicator
 - Ran backtest with 5-day holding window
